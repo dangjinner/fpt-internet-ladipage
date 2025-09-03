@@ -1,0 +1,10 @@
+@extends('layout')
+@section('content')
+    @include('sections.section-1')
+    @include('sections.section-2')
+    @include('sections.section-3')
+    @include('sections.section-4')
+    @include('sections.section-5')
+    @include('sections.section-6')
+    @include('sections.section-7')
+@endsection
